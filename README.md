@@ -1,10 +1,11 @@
 # FIFA WORLD CUP - Analysis
+![](dashboard.png)
 Collecte - Analyse - Visualisation
 
 ## Description
 ### Objetcif
 1. Scraper des données depuis un tableau dans une page web
-2. 
+2. Construire un tbleau de bord avec Tableau Software
 
 ### Données
 Les données sont disponibles sur cette page https://www.foxsports.com/soccer/fifa-world-cup/history
